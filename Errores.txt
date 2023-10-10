@@ -1,0 +1,4 @@
+1-Bug cuando intento filtrar por base de datos
+2-Bug de validaciones 
+
+
